@@ -5,19 +5,15 @@
 ## 目录结构
 
 - `leetcode/` - LeetCode 题目按难度分类
-  - `easy/` - 简单题
-  - `medium/` - 中等题  
-  - `hard/` - 困难题
-- `data-structures/` - 数据结构学习笔记
-- `algorithms/` - 算法学习笔记
+  - `DP` - 动态规划 
 
 ## 进度追踪
 
 | 难度 | 已完成 | 总数 |
 |------|--------|------|
-| Easy | 0      | -    |
-| Medium | 0    | -    |
-| Hard | 0      | -    |
+| Easy | 2      | 2    |
+| Medium | 1    | 1    |
+| Hard | 0      | 0    |
 
 ## 笔记格式
 
